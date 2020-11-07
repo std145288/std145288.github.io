@@ -9,15 +9,15 @@
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2019</td>
+    <td class="col-md-3">Oct 2019 - Present</td>
     <td>
-        <strong>Ph.D. in Computer Science</strong>
-          (0.00/0.00)
+        <strong>MSc in Pervasive and Mobile Computing Systems</strong>
+          
         <br>
-      Carnegie Mellon University
+      Hellenic Open University
     </td>
   </tr>
-  <tr>
+<tr>
     <td class="col-md-3">Aug 2014 - May 2016</td>
     <td>
         <strong>M.S. in Computer Science</strong>
@@ -27,10 +27,10 @@
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2011 - May 2014</td>
+    <td class="col-md-3">Oct 1997 - Jun 2004</td>
     <td>
-        <strong>B.S. in Computer Science</strong>
-          (3.99/4.00)
+        <strong>BEng in Civil Infrastructure Engineering</strong>
+     ATEI Patras          
         <br>
       Virginia Tech
     </td>
