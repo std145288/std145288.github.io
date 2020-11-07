@@ -11,37 +11,39 @@
   <tr>
     <td class="col-md-3">Oct 2019 - Present</td>
     <td>
-        <strong>MSc in Pervasive and Mobile Computing Systems</strong>
-          
+        <strong>MSc in Pervasive and Mobile Computing Systems</strong>         
         <br>
       Hellenic Open University
     </td>
   </tr>
-<tr>
-    <td class="col-md-3">Aug 2014 - May 2016</td>
+    <tr>
+    <td class="col-md-3">Oct 2014 - Jul 2019</td>
     <td>
-        <strong>M.S. in Computer Science</strong>
-          (0.00/0.00)
+        <strong>BSc in Computer Science</strong>         
         <br>
-      Carnegie Mellon University
+      Hellenic Open University
     </td>
   </tr>
-  <tr>
+    <tr>
     <td class="col-md-3">Oct 1997 - Jun 2004</td>
     <td>
-        <strong>BEng in Civil Infrastructure Engineering</strong>
-     ATEI Patras          
+        <strong>BEng in Civil Infrastructure Engineering</strong>         
         <br>
-      Virginia Tech
+      ATEI Patras
     </td>
   </tr>
-  <tr>
-    <td class="col-md-3">Aug 2007 - May 2011</td>
-    <td>
-      Northside High School (Roanoke, Virginia)
-    </td>
-  </tr>
-</table>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
 
 
 ## <i class="fa fa-chevron-right"></i> Experience
