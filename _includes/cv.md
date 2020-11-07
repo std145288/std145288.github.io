@@ -31,22 +31,10 @@
         <br>
       ATEI Patras
     </td>
-  </tr>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
+  </tr>  
 
 ## <i class="fa fa-chevron-right"></i> Experience
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>May 2019 - Present</td>
