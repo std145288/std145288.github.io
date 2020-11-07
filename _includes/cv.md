@@ -31,7 +31,8 @@
         <br>
       ATEI Patras
     </td>
-  </tr>  
+  </tr>
+ </table>
 
 ## <i class="fa fa-chevron-right"></i> Experience
 
