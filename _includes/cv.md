@@ -38,50 +38,20 @@
 
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>May 2019 - Present</td>
-  <td><strong>Facebook AI</strong>, Research Scientist</td>
+  <td class='col-md-3'>Nov 2016 - Present</td>
+  <td><strong>Rural & Surveying Consultant Engineers</strong>, Head Survey engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>June 2018 - Sept 2018</td>
-  <td><strong>Intel Labs</strong>, Research Intern</td>
+  <td class='col-md-3'>May 2006 - Jan 2015</td>
+  <td><strong>Rural & Surveying Consultant Engineers</strong>, Head Survey engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'>May 2017 - Oct 2017</td>
-  <td><strong>Google DeepMind</strong>, Research Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2014 - Aug 2014</td>
-  <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Dec 2013 - Jan 2014</td>
-  <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2013 - Aug 2013</td>
-  <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - Aug 2012</td>
-  <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2011 - Aug 2011</td>
-  <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
+  <td><strong>ERGO ATE - Infrastructure Works Co.</strong>, Assistant Survey engineer</td>
 </tr>
 <tr>
 </tr>
