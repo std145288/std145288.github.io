@@ -64,19 +64,13 @@
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-C, C++, Fortran, Haskell, Java, Lua, Make, *Mathematica*, Python, R, Scala
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Frameworks</td>
-  <td markdown="1">
-NumPy, Pandas, PyTorch, SciPy, TensorFlow, Torch7
+C, Java, Python, SQL, PHP
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Systems</td>
   <td markdown="1">
-Linux, OSX
+Windows
   </td>
 </tr>
 </table>
