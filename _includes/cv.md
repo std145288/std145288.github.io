@@ -51,7 +51,7 @@ My desire to expand my knowledge in CS, has led me to follow the <b>MSc course i
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Oct 2017</td>
+  <td class='col-md-3'>Sep 2003 - May 2005</td>
   <td><strong>ERGO ATE - Infrastructure Works Co.</strong>, Assistant Survey engineer</td>
 </tr>
 <tr>
