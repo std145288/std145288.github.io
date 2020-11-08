@@ -66,6 +66,12 @@ My desire to expand my knowledge in CS, has led me to follow the <b>MSc course i
 C, Java, Python, SQL, PHP
   </td>
 </tr>
+ <tr>
+  <td class='col-md-2'>Software</td>
+  <td markdown="1">
+  AutoDesk AutoCAD, AutoDesk Civil3D, AutoDesk RasterDesign, Microsoft Office
+  </td>
+</tr>
 <tr>
   <td class='col-md-2'>Systems</td>
   <td markdown="1">
