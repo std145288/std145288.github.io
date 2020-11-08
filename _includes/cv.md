@@ -1,5 +1,7 @@
  
- TEST Niaou
+ I'm a Civil Infrastructure Engineer and working as Head Survey Engineer in a technical office of Rural & Surveying Consultant Engineers.<br>
+ I always had a passion about computers and informatics and finally on July 2019 i obtained my BSc in Computer Science.<br>
+ My desire to expand my knowledge in CS, has led me to follow the MSc course in "Pervasive and Mobile Computing Systems" of Hellenic Open University.
  
  
   <br><br>
