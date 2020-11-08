@@ -1,7 +1,6 @@
- 
  I'm a <b>Civil Infrastructure Engineer</b> and working as <b>Head Survey Engineer</b> in a technical office of Rural & Surveying Consultant Engineers.<br>
- I always had a passion about computers and informatics and finally on July 2019 i obtained my <b>BSc in Computer Science</b>.<br>
- My desire to expand my knowledge in CS, has led me to follow the <b>MSc course in "Pervasive and Mobile Computing Systems"</b> of <b>Hellenic Open University.
+I always had a passion about computers and informatics and finally on July 2019 i obtained my <b>BSc in Computer Science</b>.<br>
+My desire to expand my knowledge in CS, has led me to follow the <b>MSc course in "Pervasive and Mobile Computing Systems"</b> of <b>Hellenic Open University.
  
  
   <br><br>
